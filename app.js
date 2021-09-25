@@ -19,4 +19,3 @@ const countdown = () => {
     document.querySelector('.sec').textContent = second;
 }
 
-setInterval(countdown, 1000);
