@@ -1,0 +1,51 @@
+body{
+    background-image: url('img/images-7.png');
+    background-size: contain;
+    background-repeat: no-repeat;    
+}
+h2{
+    font-family: Dancing Script;
+    font-size: 2em;
+    color: rgb(124, 1, 69);
+}
+#pic-space{
+    text-align: center;
+    margin-top: 8rem;
+    margin-bottom: -2em;
+}
+
+#main-pic{
+    height: 35vh;
+}
+
+#countdown{
+    text-align: center;
+    background-color: rgba(245, 245, 245, 0.884);
+    padding: 10px;    
+    margin: 10px 3em;
+    border: none;
+    border-radius: 10px;
+    box-shadow: .5px .5px 15px rgb(211, 211, 211);
+
+}
+
+#wish{
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-family: Josefin Slab;
+    font-size: 18px;
+    line-height: 1.2em;
+}
+#date{
+    font-family: Dancing Script;
+    color: rgb(90, 0, 50);
+}
+
+.hour, .min, .sec{
+    font-family: Codystar;
+    font-size: 3em;
+    color:black;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px orange;
+}
